@@ -140,7 +140,7 @@ Open `colon_cancer_v2.ipynb` in Google Colab or Jupyter and run all cells.
 
 ## 👩‍💻 Author
 
-**Syeda Atiqa Kanwal** — AI Engineer | University Gold Medallist
+**Syeda Atiqa Kanwal**  AI Engineer | University Gold Medallist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-atiqa-kanwal-838490390)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/syedaatiqakanwal-sak)
@@ -149,4 +149,4 @@ Open `colon_cancer_v2.ipynb` in Google Colab or Jupyter and run all cells.
 
 ## 📄 License
 
-MIT License — free to use with attribution.
+MIT License free to use with attribution.
